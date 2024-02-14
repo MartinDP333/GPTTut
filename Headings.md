@@ -1,7 +1,7 @@
 # GPTTut
 Following ChatGPT in setting up git and github
 
-# Heading
+# Heading 🚀
 ## ~~Heading 2~~
 ### _Heading 3_
 #### *Heading 4*
